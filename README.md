@@ -1,5 +1,5 @@
 # DS Meta
-Criamos uma aplicação de listagem de vendas de um período mínimo e máximo e criamos um botão onde notifica para o vendedor através de uma SMS dizendo sobre seus dados de vendas.
+Criamos uma aplicação de listagem de vendas de um período mínimo e máximo e criamos um botão onde notifica para o vendedor através de uma SMS informando sobre seus dados de vendas.
 
 <img src="https://user-images.githubusercontent.com/98350903/179637174-df88013e-cba3-46f1-91c7-265634fb3829.PNG"  width="600"/>
 
